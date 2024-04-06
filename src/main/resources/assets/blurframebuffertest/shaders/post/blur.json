@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "inp", "out"
+  ],
+  "passes": [
+    {
+      "name": "blurframebuffertest:blur",
+      "intarget": "inp",
+      "outtarget": "out"
+    }
+  ]
+}

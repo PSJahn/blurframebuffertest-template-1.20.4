@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "de.psjahn.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"PostEffectPassAccessor",
+		"PostEffectProcessorMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
